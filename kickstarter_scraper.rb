@@ -9,4 +9,3 @@ end
 binding.pry
 
 create_project_hash
-
